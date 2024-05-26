@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059935067365",
+    "project_id": "webviw-1ada8",
+    "storage_bucket": "webviw-1ada8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059935067365:android:689dfe6ca4dcf54eb8480c",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6erYNMpH1_UCYMR_ZR-xr5SGMUK439s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
